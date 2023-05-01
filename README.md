@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Bruno Samuel Mussororo.
+I'm a Software developer.
+I'm a UI/UX designer.
+I'm also very interessed in IoT and Hacking.
 
 <!--
 **lucky-258/lucky-258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
