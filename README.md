@@ -11,7 +11,7 @@ My name is Bruno Samuel Mussororo, let's build awesome things together.
  
 ##
  
- ### :hammer_and_wrench: Languages and Tools
+ ### Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -30,6 +30,8 @@ My name is Bruno Samuel Mussororo, let's build awesome things together.
 ##
 
 <div>
+
+### Statistics
  
  ![](https://raw.githubusercontent.com/nobbru/github-stats/master/generated/overview.svg#gh-dark-mode-only)
  ![](https://raw.githubusercontent.com/nobbru/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/nobbru/github-stats/master/generated/languages.svg#gh-dark-mode-only)
