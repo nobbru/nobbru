@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-My name is Bruno Samuel Mussororo.
+My name is Bruno Samuel Mussororo, don't worry I'll fix your design.
 - I'm a Software developer.
 - I'm a UI/UX designer.
 - I'm also very interessed in IoT and Hacking.
-  
-- *Ask me about:* Science, business and mindset.
-- *My hobbies:* Chess and recreating websites.
+
+- # Looking to collaborate in: web and mobile applications development.
+- # Ask me about: Science, business and mindset.
+- # My hobbies: Chess, animes, videogames and recreating websites.
  
  ***
  
