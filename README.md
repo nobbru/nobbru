@@ -23,6 +23,11 @@ My name is Bruno Samuel Mussororo.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+![](https://raw.githubusercontent.com/nobbru/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nobbru/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <!--
 **lucky-258/lucky-258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
