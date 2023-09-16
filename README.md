@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Bruno Samuel Mussororo, let's build awesome things together.
+My name is Bruno Samuel Mussororo, without any longer, let's build awesome things together.
 - I'm a Software developer.
 - I'm a UI/UX designer.
 - I'm also very interessed in IoT and Hacking.
