@@ -1,15 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Bruno Samuel Mussororo, don't worry I'll fix your design.
 - I'm a Software developer.
 - I'm a UI/UX designer.
 - I'm also very interessed in IoT and Hacking.
 
-- # Looking to collaborate in: web and mobile applications development.
-- # Ask me about: Science, business and mindset.
-- # My hobbies: Chess, animes, videogames and recreating websites.
+- #### Looking to collaborate in: web and mobile applications development.
+- #### Ask me about: Science, business and mindset.
+- #### My hobbies: Chess, animes, videogames and recreating websites.
  
- ***
+##
  
  ### :hammer_and_wrench: Languages and Tools
 
@@ -27,7 +27,7 @@ My name is Bruno Samuel Mussororo, don't worry I'll fix your design.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<hr>
+##
 
 <div>
  
