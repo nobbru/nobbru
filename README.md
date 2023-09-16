@@ -5,7 +5,7 @@ My name is Bruno Samuel Mussororo.
 - I'm a UI/UX designer.
 - I'm also very interessed in IoT and Hacking.
  
- ---
+ ***
  
  ### :hammer_and_wrench: Languages and Tools :
 
@@ -23,7 +23,7 @@ My name is Bruno Samuel Mussororo.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+<hr>
 
 <div>
  
