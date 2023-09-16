@@ -4,10 +4,13 @@ My name is Bruno Samuel Mussororo.
 - I'm a Software developer.
 - I'm a UI/UX designer.
 - I'm also very interessed in IoT and Hacking.
+  
+- *Ask me about:* Science, business and mindset.
+- *My hobbies:* Chess and recreating websites.
  
  ***
  
- ### :hammer_and_wrench: Languages and Tools :
+ ### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
