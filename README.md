@@ -7,7 +7,7 @@ My name is Bruno Samuel Mussororo, without any longer, let's build awesome thing
 
 - #### Looking to collaborate in: web and mobile applications development.
 - #### Ask me about: Science, business and mindset.
-- #### My hobbies: Chess, animes, videogames and recreating websites.
+- #### My hobbies: Chess, Anime, videogames and recreating websites.
  
 ##
  
