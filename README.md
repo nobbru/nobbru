@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋!
 
 My name is Bruno Samuel Mussororo, without any longer, let's build awesome things together.
 - I'm a Software Engineer.
