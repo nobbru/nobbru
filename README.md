@@ -1,17 +1,31 @@
 ## Hi there 👋!
 
+### About me
 My name is Bruno Samuel Mussororo, without any more dilly-dallying, let's build awesome things together.
+<p style="line-height: 1.5;">
+    
 - I'm a Software Engineer.
--  UI/UX designer.
--  Also very keen on IoT and Hacking.
+- UI/UX designer.
+- Also very keen on IoT and Hacking.
+- Looking to collaborate in: web and mobile applications development.
+- Ask me about: Science, business and mindset.
+- My hobbies: Chess, Anime, videogames and recreating websites.
+</p>
 
-- #### Looking to collaborate in: web and mobile applications development.
-- #### Ask me about: Science, business and mindset.
-- #### My hobbies: Chess, Anime, videogames and recreating websites.
  
 ##
  
  ### Languages and Tools
+ 
+| Column 1     | Column 2     |
+|--------------|--------------|
+| Design | Row 1, Col 2 |
+| Frontend | Row 2, Col 2 |
+| Backend | Row 3, Col 2 |
+| DBMS | Row 4, Col 2 |
+| CI/CD | Row 4, Col 2 |
+| IDEs | Row 4, Col 2 |
+| Misc | Row 4, Col 2 |
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -48,22 +62,6 @@ My name is Bruno Samuel Mussororo, without any more dilly-dallying, let's build 
  ![](https://raw.githubusercontent.com/nobbru/github-stats/master/generated/languages.svg#gh-dark-mode-only)
  ![](https://raw.githubusercontent.com/nobbru/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </div>
-
-<!--
-**lucky-258/lucky-258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <!--
 **lucky-258/lucky-258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
