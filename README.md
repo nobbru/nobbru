@@ -2,8 +2,8 @@
 
 My name is Bruno Samuel Mussororo, without any more dilly-dallying, let's build awesome things together.
 - I'm a Software Engineer.
-- I'm a UI/UX designer.
-- I'm also very keen on IoT and Hacking.
+-  UI/UX designer.
+-  Also very keen on IoT and Hacking.
 
 - #### Looking to collaborate in: web and mobile applications development.
 - #### Ask me about: Science, business and mindset.
