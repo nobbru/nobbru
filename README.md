@@ -1,7 +1,10 @@
 ## Hi there 👋!
 
 ### About me
-My name is Bruno Samuel Mussororo, a tech lover close on 6 years in this relationship. Without any more dilly-dallying, let's build awesome things together.
+
+My name is Bruno Samuel Mussororo, a tech lover close on 6 years in this relationship. 
+ 
+Without any more dilly-dallying, let's build awesome things together.
 
 <p style="line-height: 1.5;">
  
